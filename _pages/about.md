@@ -9,12 +9,12 @@ profile:
   image: profilepic.png
   address: >
     <p>Clemson University</p>
-    <p>Department of Biological Sciences</p>
+    <p>Biological Sciences</p>
     <p>111 Jordan Hall</p>
     <p>Clemson, SC 29634</p>
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
