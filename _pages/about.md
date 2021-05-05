@@ -8,6 +8,7 @@ profile:
   align: right
   image: profilepic.png
   address: >
+    <p>Clemson University</p>
     <p>Department of Biological Sciences</p>
     <p>111 Jordan Hall</p>
     <p>Clemson, SC 29634</p>
