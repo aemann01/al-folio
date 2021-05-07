@@ -4,6 +4,7 @@ title: Archaeological dental calculus
 description: 
 img: /assets/img/Fig1_map_20180215-SJS-SMALL_thumb.png
 importance: 3
+category: projects
 ---
 
 <div class="row">

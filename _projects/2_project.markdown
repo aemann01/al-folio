@@ -4,6 +4,7 @@ title: Microbial eukaryotes in the gut
 description: 
 img: /assets/img/primate_map.png
 importance: 2
+category: projects
 ---
 
 <div class="row">
