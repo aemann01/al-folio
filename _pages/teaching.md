@@ -25,7 +25,7 @@ nav: true
     <h6 class="font-italic mt-2 mt-sm-0">Fall 2014 - Spring 2015: Instructor of record (online and in-person)</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">In this course students learn about the impact of diseases such as rabies, plague, smallpox, polio, measles, and HIV on human society - from their effects on populations to how they have influenced the course of history. In this course we identify social and cultural factors and conditions that influence and impede the rate and spread of contagious diseases as well as ethical issues that arise concerning the treatment of the sick and policies designed to halt epidemics.</li>
-      <li class="list-group-item"> <a href="http://aemann01.github.io/assets/pdf/anth1913F15_final_syllabus.pdf" target="_blank">Course syllabus</a>.</li>
+      <li class="list-group-item"> <a href="http://aemann01.github.io/assets/pdf/anth1913F15_final_syllabus.pdf" target="_blank"><b>Course syllabus</b></a>.</li>
     </ul>
   </div>
 </div>
@@ -48,7 +48,7 @@ nav: true
     <h6 class="font-italic mt-2 mt-sm-0">2016, 2018</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">I designed and led a two day workshop were attendees learned the basics of the R statistical software environment. Skills learned in the workshop were then used for exploratory data analysis of a large set of craniometric measurements and climatic data."</li>
-      <li class="list-group-item"> <a href="https://github.com/aemann01/R_tutorial" target="_blank">Workshop materials</a>.</li>
+      <li class="list-group-item"> <a href="https://github.com/aemann01/R_tutorial" target="_blank"><b>Workshop materials</b></a>.</li>
     </ul>
   </div>
 </div>
@@ -70,7 +70,7 @@ nav: true
     <h6 class="font-italic mt-2 mt-sm-0">2015, 2018</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">Designed and led a workshop outlining basic python syntax, data visualization, and common python packages for biological analyses (i.e., BioPython, pandas, iPython)</li>
-      <li class="list-group-item"> <a href="https://github.com/aemann01/python_tutorial" target="_blank">Workshop materials</a>.</li>
+      <li class="list-group-item"> <a href="https://github.com/aemann01/python_tutorial" target="_blank"><b>Workshop materials</b></a>.</li>
     </ul>
   </div>
 </div>
