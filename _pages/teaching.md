@@ -77,5 +77,5 @@ nav: true
 <hr>
 
 <h5>Other Teaching Material</h5>
-<li><a href="https://aemann01.github.com/assets/pdf/bioinformatics_cheat_sheet.pdf">Bioinformatics cheat sheet</a></li>
+<li><a href="https://aemann01.github.io/assets/pdf/bioinformatics_cheat_sheet.pdf">Bioinformatics cheat sheet</a></li>
 <li><a href="http://christinawarinner.com/outreach/children/adventures-in-archaeological-science/">Adventures in Archaeological Science Coloring Book</a></li>
