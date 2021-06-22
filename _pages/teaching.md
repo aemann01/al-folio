@@ -47,7 +47,7 @@ nav: true
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">2016, 2018</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">I designed and led a two day workshop were attendees learned the basics of the R statistical software environment. Skills learned in the workshop were then used for exploratory data analysis of a large set of craniometric measurements and climatic data."</li>
+      <li class="list-group-item">Workshop covers the basics of R syntax, running loops, writing your own simple functions, and data visualization. Skills learned in the workshop are used to explore and summarize a large craniometric dataset (Howells 1996) with associated climatic data.</li>
       <li class="list-group-item"> <a href="https://github.com/aemann01/R_tutorial" target="_blank"><b>Workshop materials</b></a>.</li>
     </ul>
   </div>
@@ -69,7 +69,7 @@ nav: true
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">2015, 2018</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">Designed and led a workshop outlining basic python syntax, data visualization, and common python packages for biological analyses (i.e., BioPython, pandas, iPython)</li>
+      <li class="list-group-item">Workshop covers basic python syntax, data visualization, data manipulation, and common python packages for biological analyses including BioPython, Pandas, and the interactive python environment IPython</li>
       <li class="list-group-item"> <a href="https://github.com/aemann01/python_tutorial" target="_blank"><b>Workshop materials</b></a>.</li>
     </ul>
   </div>
