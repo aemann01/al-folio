@@ -31,14 +31,5 @@ Bioinformatician and mechanical keyboard enthusiast. Currently a postdoc at Clem
 <div class="social">
 <div class="contact-icons">
 
-<a href="https://aemann01.github.io/assets/pdf/Mann_CV.pdf" title="Download CV"><i class="ai ai-cv" aria-hidden="true" style="font-size:36px;padding-left:5px;padding-right:5px"></i></a>
-<a href="mailto:%61%6D%61%6E%6E%33@%63%6C%65%6D%73%6F%6E.%65%64%75" title="Contact"><i class="fa fa-envelope" aria-hidden="true" style="font-size:34px;padding-left:5px;padding-right:5px"></i></a>
-<a href="https://orcid.org/0000-0001-7170-6017" title="ORCID"><i class="ai ai-orcid ai-3x" style="font-size:32px;padding-left:5px;padding-right:5px"></i></a>
-<a href="https://scholar.google.com/citations?user=BcHAnkwAAAAJ&hl" title="Google Scholar"><i class="ai ai-google-scholar ai-3x" style="font-size:36px;padding-left:5px;padding-right:5px"></i></a>
-<a href="https://github.com/aemann01" title="GitHub"><i class="fa fa-github" style="font-size:36px;padding-left:5px;padding-right:5px"></i></a>
-<a href="https://twitter.com/aemann01" title="Twitter"><i class="fa fa-twitter" aria-hidden="true" style="font-size:36px;padding-left:5px;padding-right:5px"></i></a>
-<a href="http://www.vprichards-lab.com/" title="Lab Website"><i class="fa fa-flask" aria-hidden="true" style="font-size:33px;padding-left:5px;padding-right:5px"></i></a>
-<a href="https://www.clemson.edu/science/departments/biosci/directory/profiles/amann3" title="Department Website"><i class="fa fa-briefcase" aria-hidden="true" style="font-size:35px;padding-left:5px;padding-right:5px"></i></a>
-
 </div>
 

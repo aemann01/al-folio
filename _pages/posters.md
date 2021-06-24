@@ -13,3 +13,14 @@ nav: true
 * Allison E. Mann, Susanna Sabin, Kirsten Ziesemer, Åshild J. Vågene, Krithivasan Sankaranarayanan, Andrew Ozga, James Fellows Yates, Christopher Read, Alexander Herbig, Johannes Krause, Menno Hoogland, Corinne Hofman, Kirsten Bos, Christina Warinner. (2017) **Differential preservation of endogenous human and microbial DNA in dental calculus and dentin.** Society for American Archaeology, 82nd Annual Meeting, Vancouver, Canada [[PDF]](/assets/pdf/dvc_saa2017.pdf)
 
 * Kirsten A. Ziesemer, Allison E. Mann, Krithivasan Sankaranarayanan, Hannes Schroeder, Andrew T. Ozga, Bernd W. Brandt, Egija Zaura, Andrea Waters-Rist, Menno Hoogland, Domingo C. Salazar-Garcia, Mark Aldenderfer, Camilla Speller, Jessica Hendy, Darlene A. Weston, Sandy J. MacDonald, Gavin H. Thomas, Matthew J. Collins, Cecil M. Lewis, Corinne Hofman, and Christina Warinner. (2016) **Intrinsic challenges in ancient microbiome reconstruction using 16S rRNA gene amplification.** Student Research and Creativity Day, University of Oklahoma, Norman, OK, USA [[PDF]](/assets/pdf/poster_final.pdf)
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="social">
+<div class="contact-icons">
+
+</div>
