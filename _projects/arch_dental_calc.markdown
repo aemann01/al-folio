@@ -25,3 +25,13 @@ Relevant publications:
 
 * [Intrinsic challenges in ancient microbiome reconstruction using 16S rRNA gene amplification.](https://www.nature.com/articles/srep16498) 2015. Ziesemer KA, **Mann AE**, Sankaranarayanan K, Schroeder H, Ozga AT, Brandt BW, Zaura E, Waters-Rist A, Hoogland M, Salazar-Garcia DC, Aldenderfer M, Speller C, Hendy J, Weston DA, MacDonald SJ, Thomas GH, Collins MJ, Lewis CM, Hofman C, Warinner C. Scientific Reports
  
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="social">
+<div class="contact-icons">
+
+</div>
